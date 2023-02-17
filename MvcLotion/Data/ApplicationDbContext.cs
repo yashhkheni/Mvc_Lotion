@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using MvcLotion.Models;
 
 namespace MvcLotion.Data
 {
@@ -12,5 +13,6 @@ namespace MvcLotion.Data
             : base(options)
         {
         }
+        public DbSet<MvcLotion.Models.Lotion> Lotion { get; set; }
     }
 }
