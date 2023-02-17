@@ -18,6 +18,11 @@ a {
     font-size: 20px;
 }
 
+.pvcp {
+    font-family: monospace;
+    font-size: 15px;
+}
+
 
 .btn-primary {
     color: #fff;
@@ -68,14 +73,8 @@ html {
 body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
-    font-family: cursive;
 }
 
-#HomepageBody {
-    background-image: url("//" );
-    background-repeat: no-repeat;
-    background-position: center;
-}
 .footer {
   position: absolute;
   bottom: 0;
