@@ -76,3 +76,7 @@ yeh, Found and gathered some cool text for my company page......what that source
 now i am going to submit the assignment and then will try to make some changes to it.
 
 
+12:44PM 17thFeb
+>Final Step Deplying the site to the out-world, Following the part of the last step of deploying the site through azure
+>Below given link follows to the site which just been deployed....but i can not access the database part of it otherwise the site is running smooth.
+https://mvclotion20230217123720.azurewebsites.net
