@@ -84,3 +84,6 @@ https://mvclotion20230217123720.azurewebsites.net
 12:54PM 17thFeb
 >This project could have been more different if i had the access like original class machines because the open-lab does not work
 >i can only see the program data can't run project in open-lab woops.......
+
+3:34PM 17thFeb
+>okay finally i have added the iamge to my about us page after getting some help from the google went through some stack overflow sites and get to know about that....
