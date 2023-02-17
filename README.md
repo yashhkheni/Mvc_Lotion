@@ -90,3 +90,6 @@ https://mvclotion20230217123720.azurewebsites.net
 
 3:38PM 17thFeb
 >Made some changes for background and now updating readme file
+
+3:53PM 17thFeb
+>Okay, I have found something difference in between azure site and localsite some css are not getting applied to azure while local is running great
