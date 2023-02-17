@@ -87,3 +87,6 @@ https://mvclotion20230217123720.azurewebsites.net
 
 3:34PM 17thFeb
 >okay finally i have added the iamge to my about us page after getting some help from the google went through some stack overflow sites and get to know about that....
+
+3:38PM 17thFeb
+>Made some changes for background and now updating readme file
