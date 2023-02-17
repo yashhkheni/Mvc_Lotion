@@ -80,3 +80,7 @@ now i am going to submit the assignment and then will try to make some changes t
 >Final Step Deplying the site to the out-world, Following the part of the last step of deploying the site through azure
 >Below given link follows to the site which just been deployed....but i can not access the database part of it otherwise the site is running smooth.
 https://mvclotion20230217123720.azurewebsites.net
+
+12:54PM 17thFeb
+>This project could have been more different if i had the access like original class machines because the open-lab does not work
+>i can only see the program data can't run project in open-lab woops.......
